@@ -1,2 +1,2 @@
 # pr-demo
-Demonstration Of PR Template
+Demonstration Of PR Template.
