@@ -5,12 +5,7 @@
 - [ ] Breaking change (fix or feature that would cause existing functionality to change)
 - put your description here...
 
-## JIRA Ticket(s)
-
 ## The Things That We Do
-- [ ] I have read the **CONTRIBUTING** document.
 - [ ] My code follows the code style of this project.
-- [ ] My change requires a change to the documentation.
-- [ ] I have updated the documentation accordingly.
 - [ ] I have added tests to cover my changes.
-- [ ] All new and existing tests passed.
+- [ ] All new and existing tests passed (Checked by submitter AND reviewer.
